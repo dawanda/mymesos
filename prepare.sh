@@ -2,7 +2,7 @@
 
 set -e
 
-DOCKER_VER="1.11.0"
+DOCKER_VER="1.11.2"
 DOCKER_ARCH="x86_64"
 
 trap cleanup INT TERM
